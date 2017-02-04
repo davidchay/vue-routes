@@ -1,0 +1,12 @@
+{
+    'andres':{
+        menu:{
+            'Dashboard':{'dashboard':'/'},
+            'clientes':{
+                'clientes':{'/clientes/',
+                'agregar Cliente':{'/cliente/nuevo/',
+            },
+            
+        }
+    }
+}
